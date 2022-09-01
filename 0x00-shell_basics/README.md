@@ -1,1 +1,1 @@
-This is a serious project
+0-iam_betty is about changing a user
